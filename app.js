@@ -1,6 +1,7 @@
+const colors = require('colors');
 const { Calculadora, ejemplo } = require("./clase/calculadora")
 
-console.log("hola desde app: ",ejemplo)
+console.log("hola desde app: ".blue,ejemplo)
 
 //instanciamos el objeto claculadora
 let calculadora= new Calculadora();
