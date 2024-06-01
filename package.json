@@ -2,10 +2,10 @@
   "name": "git-javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app",
-    "segundo": "node test",
+    "x": "node test",
     "combinado": "node app && node test"
   },
   "keywords": [],
